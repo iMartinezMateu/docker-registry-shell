@@ -1,6 +1,6 @@
 # Docker Registry Shell
 ## Introduction
-**Docker Registry Shell** is a tool made with Python that abstracts the complexity of the Docker Registry API operations, thus making it easier to use. The user can get information about the repositories and references stored in the Registry and he can also delete a repository with just a command (instead of having to use directly the complex endpoint available at the API).
+**Docker Registry Shell** is a tool that abstracts the complexity of the Docker Registry API operations, thus making it easier to use. The user can get information about the repositories and references stored in the Registry and he can also delete a repository with just a command (instead of having to use directly the complex endpoint available at the API).
 
 This tool can be executed in Windows, OS X and GNU/Linux thanks to NET Core.
 
